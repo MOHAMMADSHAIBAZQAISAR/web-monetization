@@ -1,6 +1,6 @@
 <img src="assets/wm_icon_animated.svg" alt="Logo Web Monetization" align="right" width="120px" />
 
-# Awesome Web Monetization [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+#  Web Monetization [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > Awesome stuffs about Web Monetization. Learn more, check modules and others tools.
 
